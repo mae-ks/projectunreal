@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Source",
+    "\\Source\\MegascansPlugin",
+    "\\Source\\MegascansPlugin\\Private",
+    "\\Source\\MegascansPlugin\\Private\\AssetImporters",
+    "\\Source\\MegascansPlugin\\Private\\Tools",
+    "\\Source\\MegascansPlugin\\Private\\UI",
+    "\\Source\\MegascansPlugin\\Public"
+  ],
+  "SelectedNode": "\\Source\\MegascansPlugin\\Private\\MegascansLiveLinkModule.cpp",
+  "PreviewInSolutionExplorer": false
+}
